@@ -7,13 +7,7 @@ Email: ssoy3@paragoniu.edu.kh
 
 Project Title: Todo List Web Application
 
-AI Tools Used
-
 Tool: Claude
-
-Developer: Anthropic
-
-Model: Claude Sonnet
 
 How AI Was Used
 1. Project Setup
