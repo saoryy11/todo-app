@@ -52,15 +52,19 @@ Maven
 1️. Clone the repository
 git clone https://github.com/saoryy11/todo-app.git
 cd todo-app
+
 2️. Create the PostgreSQL database
 CREATE DATABASE todoapp;
+
 3️. Configure database connection
 Update src/main/resources/application.properties:
 spring.datasource.url=jdbc:postgresql://localhost:5432/todoapp
 spring.datasource.username=your_username
 spring.datasource.password=your_password
+
 4️. Run the application
 ./mvnw spring-boot:run
+
 5️. Open the application
 Visit:
 http://localhost:8080
