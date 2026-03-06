@@ -3,3 +3,6 @@ cmds = ['./mvnw clean package -DskipTests']
 
 [start]
 cmd = 'java -jar target/todo-app-0.0.1-SNAPSHOT.jar'
+
+[variables]
+JAVA_VERSION = '21'
