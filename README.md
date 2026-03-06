@@ -73,23 +73,38 @@ Deployment
 The application is deployed using Railway.
 
 Deployment Steps
+
 _Push the project to GitHub
+
 _Create a new Railway project
+
 _Connect the GitHub repository
+
 _Add a PostgreSQL service
+
 _Configure environment variables:
+
 SPRING_DATASOURCE_URL
+
 SPRING_DATASOURCE_USERNAME
+
 SPRING_DATASOURCE_PASSWORD
 
 Railway will automatically build and deploy the application.
 
+
 Author
 Name: Saory Soy
+
 GitHub: https://github.com/saoryy11
+
 Email: ssoy3@paragoniu.edu.kh
 
+
 Course
+
 CS223-Object-oriented programming
+
 Instructor's name: Ruslan Isaev
+
 Paragon International University
