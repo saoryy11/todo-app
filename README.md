@@ -3,6 +3,10 @@ Todo App – CS223 Final Project
 A full-stack Todo List web application built using Spring Boot and PostgreSQL.
 This application allows users to securely manage their personal tasks with authentication and user-specific todo lists.
 
+Demo Video
+
+Click here to watch the demo --> (https://youtu.be/fYsd7cq1HnI)
+
 Live Demo
 https://powerful-ambition-production-c297.up.railway.app
 
