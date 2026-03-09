@@ -69,4 +69,3 @@ Declaration
 
 I declare that although AI tools were used as a learning and assistance resource during this project, I understand the concepts and code used in the final implementation. All final design decisions and modifications were made by me.
 
-Date: March 2026
